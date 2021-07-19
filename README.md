@@ -1,2 +1,2 @@
-# kukfuhkingreat-issues
-Public Issues for KUK Fuh Kin Great
+# KUK Fuh Kin Great Issues
+Hier können Issues (Probleme oder Funktionswünsche) geäußert werden.
